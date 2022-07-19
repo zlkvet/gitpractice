@@ -14,5 +14,7 @@ Practice using github
 From lab computer
 
 “This is a line from RStudio”
+
+This is another commit attempt from RStudio
 >>>>>>> 2e406a067d8210a993ad65ea48aa01fb74be700b
 
